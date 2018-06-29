@@ -26,7 +26,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Gotham', 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 section {
@@ -116,7 +116,7 @@ img::-moz-selection {
 
 #mainNav .navbar-brand {
   color:black;
-  font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
+  font-family: 'Gotham', 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
@@ -129,7 +129,7 @@ img::-moz-selection {
   padding: 0.75em 0;
   letter-spacing: 1px;
   color:black;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Gotham Book Medium', 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
@@ -144,7 +144,7 @@ img::-moz-selection {
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
-    background-color: transparent;
+    background-color: whitesmoke;
   }
   #mainNav .navbar-brand {
     font-size: 1.75em;
